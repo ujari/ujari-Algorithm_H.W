@@ -1,0 +1,18 @@
+﻿  insert_node.c
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\insert_node.c(7,9): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  main.c
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(50,3): warning C4013: 'insert_node_by_circulation'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(69,3): warning C4013: 'insert_node_by_repetition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(79,15): warning C4013: 'tree_height'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(80,10): warning C4013: 'count_node'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(83,50): warning C4013: 'count_leaf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(97,2): warning C4013: 'preorder'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(105,2): warning C4013: 'inorder'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(113,2): warning C4013: 'postorder'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(127,2): warning C4013: 'preorder_by_repetition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(135,2): warning C4013: 'inorder_by_repetition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\main.c(143,2): warning C4013: 'postorder_by_repetition'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  tree_attribute.c
+  Tree_traversal.c
+  코드를 생성하고 있습니다...
+  20233523_최윤호_HW2.vcxproj -> C:\Users\ChoiYoonho\OneDrive - sch.ac.kr\바탕 화면\순천향대학교\2-2\알고리즘\과제\20233523_최윤호_HW2\20233523_최윤호_HW2\x64\Debug\20233523_최윤호_HW2.exe
